@@ -1,4 +1,5 @@
 import { HomeIcon, Library, Search } from "lucide-react";
+import { PlaylistSidebar } from "./PlaylistSidebar";
 
 export function Sidebar() {
     return (
@@ -23,10 +24,38 @@ export function Sidebar() {
             </a>
           </nav>
 
-          <nav className='mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3'>
-            <a href="#" className='text-sm text-zinc-400 hover:text-zinc-100'>Playlist</a>            
-                      
+          {/* <nav className='mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3'>
+            <a href="#" className='text-sm text-zinc-400 hover:text-zinc-100'>Playlist</a>                 
+          </nav> */}
+
+          <nav className="mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3">
+            <PlaylistSidebar
+              imageSrc="/album.jpg"
+              playlistName="Top Hits" 
+              artistName="Various Artists" 
+            />
+            <PlaylistSidebar
+              imageSrc="/album.jpg"
+              playlistName="Top Hits" 
+              artistName="Various Artists" 
+            />
+            <PlaylistSidebar
+              imageSrc="/album.jpg"
+              playlistName="Top Hits" 
+              artistName="Various Artists" 
+            />
+            <PlaylistSidebar
+              imageSrc="/album.jpg"
+              playlistName="Top Hits" 
+              artistName="Various Artists" 
+            />
+            <PlaylistSidebar
+              imageSrc="/album.jpg"
+              playlistName="Top Hits" 
+              artistName="Various Artists" 
+            />
           </nav>
+
         </aside>
     )
 }
