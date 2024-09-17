@@ -1,13 +1,14 @@
 import Image from 'next/image';
 
 interface PlaylistSidebarProps {
+  href?: string;
   imageSrc: string;
   playlistName: string;
   artistName: string;
-  href?: string; // href é opcional e padrão é uma string vazia
+  type: string;
 }
 
-export function PlaylistSidebar({ href = '', imageSrc, playlistName, artistName }: PlaylistSidebarProps) {
+export function PlaylistSidebar({ href = '', imageSrc, playlistName, artistName, type }: PlaylistSidebarProps) {
   return (
     <a 
       href={href} 
@@ -23,7 +24,7 @@ export function PlaylistSidebar({ href = '', imageSrc, playlistName, artistName 
 
       <div className="flex flex-col">
         <strong className="text-sm">{playlistName}</strong>
-        <span className="text-xs text-zinc-500">{artistName}</span>
+        <span className="text-xs text-zinc-500">{type} • {artistName}</span>
       </div>
     </a>
   );
