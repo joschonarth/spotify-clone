@@ -41,7 +41,7 @@ export default function Home() {
             />
             <PlaylistPreview
               imageSrc="/album5.jpg"
-              title="I am You" 
+              title="Harder Than Ever" 
             />
             <PlaylistPreview
               imageSrc="/album7.jpg"
@@ -59,22 +59,22 @@ export default function Home() {
             />
             <AlbumCard 
               imageSrc="/album2.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 2" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album3.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 3" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album4.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 4" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album5.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 5" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
           </div>
@@ -90,22 +90,22 @@ export default function Home() {
             />
             <AlbumCard 
               imageSrc="/album2.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 2" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album3.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 3" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album4.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 4" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
             <AlbumCard 
               imageSrc="/album5.jpg"
-              title="Daily Mix 1" 
+              title="Daily Mix 5" 
               description="YNW Melly, Lil Baby, Future and more" 
             />
           </div>
