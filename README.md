@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# <img src="assets/spotify-logo.png" width="25" align="center"/> Spotify Clone
 
-## Getting Started
+Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Next.js e estilizada com TailwindCSS. O objetivo é reproduzir o layout e a experiência visual da home page do Spotify para fins de aprendizado e prática com essas tecnologias.
 
-First, run the development server:
+<div align="center">
+
+![Spotify Clone](assets/spotify-home.png)
+
+</div>
+
+## Tecnologias Utilizadas
+
+- **Next.js**: Framework React para renderização do lado do servidor e desenvolvimento de aplicações web modernas.
+- **TailwindCSS**: Framework de CSS utilitário para estilização rápida e responsiva.
+
+## Instalação
+
+Siga os passos abaixo para configurar o projeto localmente:
+
+1. **Clone o repositório**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/joschonarth/spotify-clone
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Navegue até o diretório do projeto**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+cd spotify-clone
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. **Instale as dependências**
 
-## Learn More
+```bash
+pnpm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. **Inicie o servidor de desenvolvimento**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+pnpm dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. **Acesse o projeto no seu navegador em `http://localhost:3000`.**
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📞 Contato 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div>
+    <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
