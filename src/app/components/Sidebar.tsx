@@ -1,4 +1,4 @@
-import { HomeIcon, Library, Search } from "lucide-react";
+import { Library, Search } from "lucide-react";
 import { PlaylistSidebar } from "./PlaylistSidebar";
 
 export function Sidebar() {
@@ -11,10 +11,10 @@ export function Sidebar() {
       </div> */}
       
       <nav className='space-y-5 mt-2'>
-        <a href="#" className='flex items-center gap-3 text-sm font-semibold text-zinc-200'>
-          <HomeIcon/>
+        <button className='flex items-center gap-3 text-sm font-semibold text-zinc-200'>
+          <i className="fa-solid fa-house text-xl"/>
           Home
-        </a>
+        </button>
         <a href="#" className='flex items-center gap-3 text-sm font-semibold text-zinc-200'>
           <Search/>
           Search
