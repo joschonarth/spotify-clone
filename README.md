@@ -1,4 +1,4 @@
-# <img src="assets/spotify-logo.png" width="25" align="center"/> Spotify Clone
+# <img src="assets/spotify-logo.png" width="30" align="center"/> Spotify Clone
 
 Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Next.js e estilizada com TailwindCSS. O objetivo é reproduzir o layout e a experiência visual da home page do Spotify para fins de aprendizado e prática com essas tecnologias.
 
@@ -8,40 +8,40 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 </div>
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **Next.js**: Framework React para renderização do lado do servidor e desenvolvimento de aplicações web modernas.
-- **TailwindCSS**: Framework de CSS utilitário para estilização rápida e responsiva.
+- [<img src="https://skillicons.dev/icons?i=next&theme=dark" width="25" align="center">](https://nextjs.org/) **Next.js**: Framework React para renderização do lado do servidor e desenvolvimento de aplicações web modernas.
+- [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="25" align="center">](https://tailwindcss.com/) **TailwindCSS**: Framework de CSS utilitário para estilização rápida e responsiva.
 
-## Instalação
+## 🚀 Instalação
 
 Siga os passos abaixo para configurar o projeto localmente:
 
-1. **Clone o repositório**
+1. **Clone o repositório** 👇
 
 ```bash
 git clone https://github.com/joschonarth/spotify-clone
 ```
 
-2. **Navegue até o diretório do projeto**
+2. **Navegue até o diretório do projeto** 📁
 
 ```bash
 cd spotify-clone
 ```
 
-3. **Instale as dependências**
+3. **Instale as dependências** 📦
 
 ```bash
 pnpm install
 ```
 
-4. **Inicie o servidor de desenvolvimento**
+4. **Inicie o servidor de desenvolvimento** 🖥️
 
 ```bash
 pnpm dev
 ```
 
-5. **Acesse o projeto no seu navegador em `http://localhost:3000`.**
+5. **Acesse o projeto no seu navegador em `http://localhost:3000`.** 🌐
 
 
 ## 📞 Contato 
