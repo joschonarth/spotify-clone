@@ -4,7 +4,7 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 <div align="center">
 
-[![Spotify Clone](assets/spotify-home.png)](https://spotify-clone-flame-one.vercel.app/)
+[![Spotify Clone](assets/spotify-home.png)](https://spotify-clone-joschonarth-projects.vercel.app/)
 
 </div>
 
@@ -17,7 +17,7 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 Você pode conferir o projeto acessando o link abaixo:
 
-[**<img src="assets/spotify-logo.png" width="15" align="center"/> Acesse o Clone do Spotify**](https://spotify-clone-flame-one.vercel.app/)
+[**<img src="assets/spotify-logo.png" width="15" align="center"/> Acesse o Clone do Spotify**](https://spotify-clone-joschonarth-projects.vercel.app/)
 
 
 ## 🚀 Instalação
