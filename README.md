@@ -17,7 +17,7 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 Você pode conferir o projeto acessando o link abaixo:
 
-[**🔗 Acesse o Clone do Spotify**](https://spotify-clone-joschonarth-projects.vercel.app/) <img src="assets/spotify-logo.png" width="15" align="center"/>
+[**<img src="assets/spotify-logo.png" width="15" align="center"/> Acesse o Clone do Spotify**](https://spotify-clone-joschonarth-projects.vercel.app/)
 
 
 ## 🚀 Instalação
