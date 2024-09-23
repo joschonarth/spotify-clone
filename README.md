@@ -4,7 +4,7 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 <div align="center">
 
-![Spotify Clone](assets/spotify-home.png)
+[![Spotify Clone](assets/spotify-home.png)](https://spotify-clone-flame-one.vercel.app/)
 
 </div>
 
@@ -12,6 +12,13 @@ Este projeto é uma clonagem da página inicial do Spotify, desenvolvida com Nex
 
 - [<img src="https://skillicons.dev/icons?i=next&theme=dark" width="25" align="center">](https://nextjs.org/) **Next.js**: Framework React para renderização do lado do servidor e desenvolvimento de aplicações web modernas.
 - [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="25" align="center">](https://tailwindcss.com/) **TailwindCSS**: Framework de CSS utilitário para estilização rápida e responsiva.
+
+## 🌐 Confira o Projeto
+
+Você pode conferir o projeto acessando o link abaixo:
+
+[**<img src="assets/spotify-logo.png" width="15" align="center"/> Acesse o Clone do Spotify**](https://spotify-clone-flame-one.vercel.app/)
+
 
 ## 🚀 Instalação
 
